@@ -1,0 +1,9 @@
+# Ignore large TSV folders
+December 24 Files/
+March 25 Files/
+
+# Ignore Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.zip
